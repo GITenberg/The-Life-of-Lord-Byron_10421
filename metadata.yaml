@@ -1,0 +1,31 @@
+_repo: The-Life-of-Lord-Byron_10421
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galt, John
+    aliases:
+    - Prior, Samuel, Capt.
+    - Balwhidder, Micah
+    - Goodfellow, Robin
+    - Duffle, Thomas
+    birthdate: 1779
+    deathdate: 1839
+    gutenberg_agent_id: '588'
+    url: http://www.gutenberg.org/2009/agents/588
+    wikipedia: http://en.wikipedia.org/wiki/John_Galt
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Byron, George Gordon Byron, Baron, 1788-1824'
+- !lcsh 'Poets, English -- 19th century -- Biography'
+- !lcc 'PR'
+- GITenberg
+title: The Life of Lord Byron
+url: http://www.gutenberg.org/ebooks/10421
